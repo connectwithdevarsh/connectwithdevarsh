@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devarsh Sathiya</h1>
-<h3 align="center">A passionale full stack developer from India</h3>
+<h3 align="center">A 
+professional full stack developer from India</h3>
 
 - 🔭 I’m currently working on **RADHE BOYS PG , EduNotes Pro**
 
