@@ -8,7 +8,7 @@ professional full stack developer from India</h3>
 
 - 🤝 I’m looking for help with **CLAUDE ,CHATGPT**
 
-- 👨‍💻 All of my projects are available at [https://devarshsathiya.vercel.app/](https://devarshsathiya.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://devarshsathiya.is-a.dev](https://devarshsathiya.vercel.app/)
 
 - 💬 Ask me about **connectwithdevarsh@gmail.com**
 
