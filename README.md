@@ -1,212 +1,99 @@
 <div align="center">
 
-# Hi, I'm Devarsh Sathiya 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8F111A&height=230&section=header&text=Devarsh%20Sathiya&fontColor=F5C04A&fontSize=52&fontAlignY=38&desc=J.A.R.V.I.S.%20ONLINE%20%E2%80%A2%20connectwithdevarsh&descAlignY=60&descColor=7BE7FF&animation=twinkling" alt="Devarsh Sathiya banner" width="100%"/>
 
-### IT Student · Full-Stack Developer · Flutter Developer · AI Builder
+<a href="https://github.com/connectwithdevarsh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7BE7FF&center=true&vCenter=true&width=700&lines=IT+Student+%7C+Full-Stack+Developer;Flutter+Developer+%7C+AI+Builder;Problem+first.+Technology+second.;Building+from+Ahmedabad%2C+India" alt="Typing SVG" />
+</a>
 
-<p>
-  <a href="https://devarshsathiya.is-a.dev">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/devarsh-sathiya-11654b375/">LinkedIn</a> ·
-  <a href="https://github.com/connectwithdevarsh">GitHub</a>
-</p>
+<br/>
+
+
+
+![Status](https://img.shields.io/badge/STATUS-ARC%20REACTOR%20ONLINE-7BE7FF?style=for-the-badge&labelColor=080304)
+
+ 
+
+![Base](https://img.shields.io/badge/BASE-AHMEDABAD%2C%20INDIA-D7262E?style=for-the-badge&labelColor=080304)
+
+ 
+
+![Mode](https://img.shields.io/badge/MODE-OPEN%20TO%20INTERNSHIPS-F5C04A?style=for-the-badge&labelColor=080304)
+
+
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/connectwithdevarsh/connectwithdevarsh/main/arc-reactor.svg" alt="Arc reactor HUD" width="100%"/>
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/connectwithdevarsh/connectwithdevarsh/main/divider.svg" width="100%" alt=""/></div>
 
-## About Me
+## 🤖 whoami
 
-I'm **Devarsh Sathiya**, a Diploma in Information Technology student at **RC Technical Institute, Ahmedabad (GTU)**, focused on turning ideas into practical software.
-
-I learn primarily by **building real products** — from full-stack web platforms and Flutter applications to applied AI systems and ESP32-based IoT projects.
-
-My current technical focus includes:
-
-- Full-stack web development
-- Flutter & cross-platform mobile development
-- Python, Flask & backend systems
-- Databases, SQL & API architecture
-- AI / Prompt Engineering
-- ESP32 & IoT systems
-- Git, GitHub & deployment workflows
-
-> **Problem first. Technology second. Build, test, improve, ship.**
-
----
-
-## What I Build
-
-### 🌐 Web Platforms
-I build responsive web applications and management systems with authentication, databases, APIs, dashboards and production deployment.
-
-**Featured work**
-- **EKAA PG** — PG management, tenant registry, occupancy, monthly accounting, complaints and notices.
-- **EduNotesPro** — Academic notes and resource-sharing platform with authentication, syllabus organization and reviews.
-
-### 📱 Flutter Applications
-I develop cross-platform mobile applications with a focus on practical workflows, offline functionality and clean user interfaces.
-
-**Featured work**
-- **AIPE Lab** — Flutter companion app for Artificial Intelligence & Prompt Engineering practicals.
-- **Shilp Shastra** — Offline bilingual Gujarati/English architectural measurement and calculation application.
-
-### 🤖 AI & Data
-I work with applied AI concepts, prompt engineering and academic analytics.
-
-**Featured work**
-- **EduForecast** — Academic performance and risk prediction project developed during technical internship training at INFOLABZ IT Services Pvt. Ltd.
-- **DevAI Assistant** — AI-powered developer utility for code explanations and workflow assistance.
-
-### 🔌 Hardware & IoT
-I also build software-hardware systems using microcontrollers and sensors.
-
-**Featured work**
-- **ESP32 Gas Safety System** — Gas detection, sensor monitoring, relay-controlled ventilation and Telegram-based emergency telemetry.
-
----
-
-## Tech Stack
-
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-</p>
-
-### Frameworks & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel"/>
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-</p>
-
----
-
-## Selected Projects
-
-### EKAA PG
-A full-stack PG management platform for tenant records, bed allocation, monthly financial accounting, pending dues, complaints and notices.
-
-**Stack:** React · Vite · Express.js · Node.js · Firebase · Firestore · JavaScript
-
-### AIPE Lab
-A Flutter-based practical companion for Artificial Intelligence & Prompt Engineering, including practical modules, code/output inspection, syllabus material and local progress tracking.
-
-**Stack:** Flutter · Dart · Material 3 · Provider · Shared Preferences
-
-### Shilp Shastra
-An offline-first bilingual Gujarati/English mobile application for architectural measurement and calculation workflows.
-
-**Stack:** Flutter · Dart · Localization · Offline Storage
-
-### EduForecast
-An academic analytics and prediction project developed during internship training, using educational signals such as attendance, assignment progress, study patterns and historical grades.
-
-**Stack:** Python · Pandas · Scikit-Learn · Machine Learning
-
-### ESP32 Gas Safety System
-An embedded safety prototype using gas sensors, an ESP32, relay-controlled ventilation, local alerts and Telegram telemetry.
-
-**Stack:** ESP32 · C++ / Arduino · Sensors · Relay · Telegram Bot API
-
-### EduNotesPro
-A student-focused academic resource platform with authentication, subject/syllabus organization, database persistence and note review functionality.
-
-**Stack:** Python · Flask · SQLite · HTML/CSS · JavaScript · Vercel
-
----
-
-## Current Focus
-
-I'm currently deepening my knowledge in:
-
-- Backend architecture & database design
-- REST APIs and scalable application structure
-- Flutter architecture and state management
-- AI / LLM integration and prompt engineering
-- Clean code and software engineering practices
-- CI/CD, testing and deployment
-- Building software with real-world utility
-
----
-
-## Education
-
-**Diploma in Information Technology**  
-RC Technical Institute, Ahmedabad · Gujarat Technological University (GTU)
-
-**Current:** 5th Semester · 3rd Year
-
----
-
-## Experience
-
-**INFOLABZ IT Services Pvt. Ltd.**  
-Technical Internship Training
-
-**Project:** EduForecast — AI-Based Academic Prediction Tool
-
-Worked on an academic analytics project involving feature preparation, machine-learning workflows and prediction-oriented analysis of student performance signals.
-
----
-
-## My Approach
-
-```text
-Understand
-    ↓
-Explore
-    ↓
-Build
-    ↓
-Test
-    ↓
-Ship
-    ↓
-Improve
+```js
+const devarsh = {
+  alias: "connectwithdevarsh",
+  role: ["IT Student", "Full-Stack Developer", "Flutter Developer", "AI Builder"],
+  institute: "RC Technical Institute, Ahmedabad (GTU)",
+  program: "Diploma in Information Technology | Semester 5",
+  location: "Ahmedabad, India",
+  internship: "INFOLABZ IT Services Pvt. Ltd.",
+  focus: ["Backend & APIs", "Flutter", "AI / LLM", "IoT (ESP32)"],
+  motto: "Problem first. Technology second. Build, test, improve, ship.",
+  openTo: ["Technical internships", "Software projects", "Collaborations"]
+};
 ```
 
-I prefer learning through implementation: understand the problem, choose the appropriate technology, build a working solution, test edge cases and improve it through real usage.
+<div align="center"><img src="https://raw.githubusercontent.com/connectwithdevarsh/connectwithdevarsh/main/divider.svg" width="100%" alt=""/></div>
 
----
-
-## Let's Connect
-
-I'm open to **technical internships, software projects, collaborations and opportunities to build useful products**.
-
-📧 **Email:** connectwithdevarsh@gmail.com
-
-🌐 **Portfolio:** https://devarshsathiya.is-a.dev
-
-💼 **LinkedIn:** https://www.linkedin.com/in/devarsh-sathiya-11654b375/
-
-🐙 **GitHub:** https://github.com/connectwithdevarsh
-
----
+## ⚡ Tech Loadout
 
 <div align="center">
 
-### Building ideas into working software. 🚀
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,dart,cpp,html,css,react,flutter,nodejs,express,flask,firebase,vercel,mysql,sqlite,mongodb,git,github,docker,bash&perline=8" alt="Tech stack"/>
 
 </div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/connectwithdevarsh/connectwithdevarsh/main/divider.svg" width="100%" alt=""/></div>
+
+## 🛠️ Mission Archive: Projects
+
+| Suit | What's inside | Stack |
+|:--|:--|:--|
+| 🌐 [**EKAA PG**](https://github.com/connectwithdevarsh/REPO_NAME) | PG management: tenants, bed allocation, monthly accounting, dues, complaints, notices | React · Vite · Express · Firebase |
+| 🌐 [**EduNotesPro**](https://github.com/connectwithdevarsh/REPO_NAME) | Notes platform: auth, syllabus organization, reviews | Flask · SQLite · Vercel |
+| 📱 [**AIPE Lab**](https://github.com/connectwithdevarsh/REPO_NAME) | Flutter companion app for AI & Prompt Engineering practicals | Flutter · Dart · Provider |
+| 📱 [**Shilp Shastra**](https://github.com/connectwithdevarsh/REPO_NAME) | Offline bilingual Gujarati/English measurement app | Flutter · Dart · Offline Storage |
+| 🤖 [**EduForecast**](https://github.com/connectwithdevarsh/REPO_NAME) | Academic risk prediction, built in INFOLABZ internship | Python · Pandas · Scikit-Learn |
+| 🔌 [**ESP32 Gas Safety**](https://github.com/connectwithdevarsh/REPO_NAME) | Gas sensors, relay ventilation, Telegram emergency alerts | ESP32 · C++ · Telegram Bot API |
+| 🤖 [**DevAI Assistant**](https://github.com/connectwithdevarsh/REPO_NAME) | AI developer utility: code explanations, workflow help | AI / LLM |
+
+<div align="center"><img src="https://raw.githubusercontent.com/connectwithdevarsh/connectwithdevarsh/main/divider.svg" width="100%" alt=""/></div>
+
+## 🎯 Mission Log
+
+- [x] Build full-stack platforms (EKAA PG, EduNotesPro)
+- [x] Ship Flutter apps (AIPE Lab, Shilp Shastra)
+- [x] Complete technical internship training at INFOLABZ
+- [x] Build a software-hardware system (ESP32 Gas Safety)
+- [ ] Master backend architecture, REST APIs and database design
+- [ ] Learn CI/CD, testing and deployment
+- [ ] Land a technical internship
+
+<div align="center"><img src="https://raw.githubusercontent.com/connectwithdevarsh/connectwithdevarsh/main/divider.svg" width="100%" alt=""/></div>
+
+## 📊 Arc Reactor Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=connectwithdevarsh&background=080304&ring=7BE7FF&fire=D7262E&currStreakLabel=F5C04A&sideLabels=F5C04A&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7BE7FF&hide_border=true" alt="Streak stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=connectwithdevarsh&bg_color=080304&color=F5C04A&line=D7262E&point=7BE7FF&area=true&area_color=8F111A&hide_border=true" alt="Contribution activity graph" width="100%"/>
+
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/connectwithdevarsh/connectwithdevarsh/main/divider.svg" width="100%" alt=""/
