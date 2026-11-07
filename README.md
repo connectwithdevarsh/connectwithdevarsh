@@ -92,7 +92,7 @@ const devarsh = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=connectwithdevarsh&bg_color=080304&color=F5C04A&line=D7262E&point=7BE7FF&area=true&area_color=8F111A&hide_border=true" alt="Contribution activity graph" width="100%"/>
+
 
 </div>
 
